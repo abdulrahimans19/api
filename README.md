@@ -1,1 +1,1 @@
-api format crup app created
+CRUD app created
